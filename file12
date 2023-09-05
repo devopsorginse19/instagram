@@ -1,0 +1,5 @@
+yum update
+yum install git
+git clone (url)
+ create files using atouch command
+git commit -m " "
